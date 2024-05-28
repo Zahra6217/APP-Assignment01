@@ -1,0 +1,40 @@
+html,body{
+    padding: 0px;
+    margin: 0px;
+}
+h1 {
+    color:crimson;
+    font-size: 35x;
+    text-align: center;
+}
+h2 {
+    color:darkred;
+}
+body{
+    background-color:bisque;
+}
+img{
+    width: 600px;
+}
+.background{
+    background-color:whitesmoke;
+    color:darkred;
+    width: 650px;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: auto;
+    padding-right: 15px;
+
+    margin-left: auto;
+    margin-right: auto;
+    /*margin-bottom: 0px;*/
+
+    border-color:white;
+    border-style:solid;
+    border-width: 0px;
+}
+footer {
+    background-color: whitesmoke;
+    text-align: center;
+    color:darkred;
+}
